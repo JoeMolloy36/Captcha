@@ -1,2 +1,0 @@
-# captcha
-young scientist project
